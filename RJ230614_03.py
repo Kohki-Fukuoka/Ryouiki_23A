@@ -1,7 +1,7 @@
 
 def read_files():
 
-    file_path_before = "0614/sample/sample/kitamura_"
+    file_path_before = "sample/kitamura_"
     file_path_after = "_kgu.txt"
 
     sum = 0
