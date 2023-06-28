@@ -1,6 +1,6 @@
 import re
 
-f = open("./0607/data.txt", "r")
+f = open("data.txt", "r")
 
 str = f.read()
 
