@@ -1,6 +1,6 @@
 import re
 
-f = open("0607/catalog.json", "r")
+f = open("catalog.json", "r")
 
 str = f.read()
 
