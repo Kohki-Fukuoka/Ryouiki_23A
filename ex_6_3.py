@@ -62,7 +62,7 @@ def get_color(length, index):
 
 def load_bind_dic():
     # load landmark's binding
-    with open("bind_dic.text", "r") as dic_f:
+    with open("bind_dic.txt", "r") as dic_f:
         bd_sp_nl = dic_f.read().split("\n")
         for dline in bd_sp_nl:
             if dline != "":
